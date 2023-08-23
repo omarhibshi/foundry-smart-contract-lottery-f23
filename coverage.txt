@@ -1,0 +1,12 @@
+Unable to resolve imports:
+      "../../forge-std/Test.sol" in "/home/omar/WORK-PROJECTS/foundry-f23/foundry-smart-contract-lottery-f23/test/unit/RaffleTest.t.sol"
+with remappings:
+      @chainlink/contracts/=/home/omar/WORK-PROJECTS/foundry-f23/foundry-smart-contract-lottery-f23/lib/chainlink-brownie-contracts/contracts/
+      @solmate/=/home/omar/WORK-PROJECTS/foundry-f23/foundry-smart-contract-lottery-f23/lib/solmate/src/
+      chainlink-brownie-contracts/=/home/omar/WORK-PROJECTS/foundry-f23/foundry-smart-contract-lottery-f23/lib/chainlink-brownie-contracts/
+      ds-test/=/home/omar/WORK-PROJECTS/foundry-f23/foundry-smart-contract-lottery-f23/lib/forge-std/lib/ds-test/src/
+      forge-std/=/home/omar/WORK-PROJECTS/foundry-f23/foundry-smart-contract-lottery-f23/lib/forge-std/src/
+      foundry-devops/=/home/omar/WORK-PROJECTS/foundry-f23/foundry-smart-contract-lottery-f23/lib/foundry-devops/
+      solmate/=/home/omar/WORK-PROJECTS/foundry-f23/foundry-smart-contract-lottery-f23/lib/solmate/src/
+Compiling 27 files with 0.8.19
+forge coverage --report debug > coverage.txt
